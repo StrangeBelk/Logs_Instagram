@@ -1,4 +1,4 @@
-# Logs_Instagram
+# Social Networks logs — Analytic — Instagram
 
 ## Instructions
 1. Export personal data from Instagram (https://help.instagram.com/181231772500920/?helpref=uf_share)
